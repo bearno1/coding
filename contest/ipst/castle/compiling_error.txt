@@ -1,0 +1,12 @@
+c:/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../../mingw32/bin/ld.exe: C:\Users\Nont\AppData\Local\Temp\ccdVRuDe.o:main.cpp:(.text.startup+0x39): undefined reference to `castle_init(int&, int&, int&, int&)'
+c:/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../../mingw32/bin/ld.exe: C:\Users\Nont\AppData\Local\Temp\ccdVRuDe.o:main.cpp:(.text.startup+0x4d): undefined reference to `castle_read_map(std::vector<int, std::allocator<int> >&, std::vector<int, std::allocator<int> >&)'
+c:/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../../mingw32/bin/ld.exe: C:\Users\Nont\AppData\Local\Temp\ccdVRuDe.o:main.cpp:(.text.startup+0x9a): undefined reference to `castle_read_event(int&, int&, int&)'
+c:/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../../mingw32/bin/ld.exe: C:\Users\Nont\AppData\Local\Temp\ccdVRuDe.o:main.cpp:(.text.startup+0x184): undefined reference to `castle_answer(int)'
+c:/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../../mingw32/bin/ld.exe: C:\Users\Nont\AppData\Local\Temp\ccdVRuDe.o:main.cpp:(.text.startup+0x415): undefined reference to `castle_answer(int)'
+c:/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../../mingw32/bin/ld.exe: C:\Users\Nont\AppData\Local\Temp\ccdVRuDe.o:main.cpp:(.text.startup+0x440): undefined reference to `castle_read_event(int&, int&, int&)'
+c:/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../../mingw32/bin/ld.exe: C:\Users\Nont\AppData\Local\Temp\ccdVRuDe.o:main.cpp:(.text.startup+0x6ba): undefined reference to `castle_answer(int)'
+c:/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../../mingw32/bin/ld.exe: C:\Users\Nont\AppData\Local\Temp\ccdVRuDe.o:main.cpp:(.text.startup+0x729): undefined reference to `castle_answer(int)'
+c:/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../../mingw32/bin/ld.exe: C:\Users\Nont\AppData\Local\Temp\ccdVRuDe.o:main.cpp:(.text.startup+0x777): undefined reference to `castle_answer(int)'
+c:/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../../mingw32/bin/ld.exe: C:\Users\Nont\AppData\Local\Temp\ccdVRuDe.o:main.cpp:(.text.startup+0x7a6): undefined reference to `castle_read_event(int&, int&, int&)'
+c:/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../../mingw32/bin/ld.exe: C:\Users\Nont\AppData\Local\Temp\ccdVRuDe.o:main.cpp:(.text.startup+0xa86): undefined reference to `castle_answer(int)'
+collect2.exe: error: ld returned 1 exit status

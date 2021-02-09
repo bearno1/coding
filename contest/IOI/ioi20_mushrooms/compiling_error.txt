@@ -1,0 +1,2 @@
+c:/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../../mingw32/bin/ld.exe: c:/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../libmingwex.a(vsnprintf.o):(.text+0x0): multiple definition of `vsnprintf'; C:\Users\Nont\AppData\Local\Temp\ccn0gKzx.o:stub.cpp:(.text$vsnprintf[_vsnprintf]+0x0): first defined here
+collect2.exe: error: ld returned 1 exit status
